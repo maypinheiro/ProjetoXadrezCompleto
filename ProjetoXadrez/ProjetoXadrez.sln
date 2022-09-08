@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoXadrez", "ProjetoXadrez.csproj", "{03782AEB-B926-4E17-BDC3-1690524152A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "..\TestProject1\TestProject1.csproj", "{540C62FC-118A-4897-8A87-9AC773464C7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03782AEB-B926-4E17-BDC3-1690524152A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03782AEB-B926-4E17-BDC3-1690524152A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03782AEB-B926-4E17-BDC3-1690524152A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03782AEB-B926-4E17-BDC3-1690524152A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{540C62FC-118A-4897-8A87-9AC773464C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540C62FC-118A-4897-8A87-9AC773464C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540C62FC-118A-4897-8A87-9AC773464C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540C62FC-118A-4897-8A87-9AC773464C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D78C9D0B-098F-4602-87EA-C4185760EBA3}
+	EndGlobalSection
+EndGlobal
